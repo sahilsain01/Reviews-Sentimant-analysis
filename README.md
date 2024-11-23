@@ -55,6 +55,9 @@ Copy code:
 
 pip install transformers torch pandas numpy matplotlib scikit-learn
 ## Output
+
+![Screenshot_2024-11-23_09-12-07](https://github.com/user-attachments/assets/0138c9d6-8acc-4348-a70d-361fa6f8b5c3)
+
 ## 🎉 Conclusion
 
 This project demonstrates how to integrate Hugging Face Transformers for sentiment analysis. You can enhance the model further by using a larger dataset or experimenting with different transformer architectures.
